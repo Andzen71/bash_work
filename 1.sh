@@ -24,7 +24,7 @@ read vibor
 	 echo "whois $domain | grep nserver" >> $HOME/bash/tmp/1.txt 
 	 whois $domain | grep nserver >> $HOME/bash/tmp/1.txt 			#ru
  
-	 echo "whois $domain | grep 'Name Server'" >> $HOME/bash/tmp/1.txt
+#org	 echo "whois $domain | grep 'Name Server'" >> $HOME/bash/tmp/1.txt
 #org	 whois $domain | grep 'Name Server' >> $HOME/bash/tmp/1.txt
 
          echo "whois $domain | grep registrar" >> $HOME/bash/tmp/1.txt 
