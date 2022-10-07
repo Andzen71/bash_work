@@ -1,4 +1,5 @@
 #!/bin/bash
+#smth new
 while [  $domain= ]
 do
     echo "Введи домен"
