@@ -1,5 +1,6 @@
 #!/bin/bash
 #smth new
+#remote commit
 while [  $domain= ]
 do
     echo "Введи домен"
